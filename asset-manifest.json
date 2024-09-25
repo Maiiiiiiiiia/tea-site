@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tea-site/static/css/main.dfc4e8ed.css",
+    "main.js": "/tea-site/static/js/main.042e6fdf.js",
+    "static/js/453.3415f899.chunk.js": "/tea-site/static/js/453.3415f899.chunk.js",
+    "static/media/Group 91.jpg": "/tea-site/static/media/Group 91.4e8984a99d73156f4177.jpg",
+    "static/media/logo.svg": "/tea-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tea-site/index.html",
+    "main.dfc4e8ed.css.map": "/tea-site/static/css/main.dfc4e8ed.css.map",
+    "main.042e6fdf.js.map": "/tea-site/static/js/main.042e6fdf.js.map",
+    "453.3415f899.chunk.js.map": "/tea-site/static/js/453.3415f899.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc4e8ed.css",
+    "static/js/main.042e6fdf.js"
+  ]
+}
